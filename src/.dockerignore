@@ -1,0 +1,65 @@
+# Build output
+**/bin/
+**/obj/
+**/out/
+**/publish/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# Logs
+*.log
+logs/
+log/
+
+# Test results
+TestResults/
+*.trx
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+*.bak
+*.swp
+*.ncb
+*.cache
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# NuGet packages
+*.nupkg
+.nuget/
+packages/
+
+# Environment / configuration
+.env
+*.secrets.json
+
+# Docker / Compose
+docker-compose.override.yml
+Dockerfile.*
+**/Dockerfile.*
+
+# Node / Frontend (if any)
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+
+# Git
+.git/
+.gitignore
+.gitattributes

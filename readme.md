@@ -1,1 +1,0 @@
-#### Kafka Worker Producer/Consumer demo
